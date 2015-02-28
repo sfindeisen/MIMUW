@@ -1,2 +1,5 @@
 # MIMUW
-MIMUW stuff
+
+http://www.mimuw.edu.pl/
+
+MIMUW stuff.
